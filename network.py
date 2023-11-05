@@ -1,3 +1,7 @@
+import numpy as np
+import torch
+import torch.nn as nn
+
 class Net(nn.Module):
 
   def __init__(self, b_values, Delta, delta, gradient_strength, nparams):
