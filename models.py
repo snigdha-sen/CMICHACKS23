@@ -1,1 +1,3 @@
 ## add compartment model code here
+
+# models to include: ball, stick, sphere, astrosticks, zeppelin, cylinder...
